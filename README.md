@@ -61,5 +61,5 @@ A imagem mostra uma explosão do projétil aproximadamente à marcação onde en
 
 <hr>
 
-<h1>Exclarecimento sobre o programa</h1>
+<h1>Esclarecimento sobre o programa</h1>
 Esse programa <strong>não é um hack para o HLL</strong>. Ele não interage com o código do jogo, apenas <strong>captura imagens da tela</strong> e converte os valores em tempo real. <strong>Na prática, funciona como um conversor de dados</strong>, sendo muito similar a uma calculadora já existente para o HLL.
